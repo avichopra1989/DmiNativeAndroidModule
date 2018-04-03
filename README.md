@@ -51,7 +51,7 @@ This project serves as a plugin to integrate Datami SDK to react-native apps
             }
         }
         ```
-4. Import the Datami Library in the initial Javascript file : **index.js**
+4. Import the Datami Library in the initial Javascript file : example **index.js**
 
     ```javascript
     ...
